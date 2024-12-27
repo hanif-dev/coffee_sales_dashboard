@@ -24,26 +24,24 @@ description: "Interactive dashboard showcasing coffee sales trends, customer beh
 
 ## Insights
 
-### 1. **Sales Trends**
-   - Arabica and Robusta dominate the market, with Robusta showing significant spikes in sales during mid-year and late-year periods.
-   - Excelsa and Liberica have minimal contributions, indicating potential for increased promotion or reconsideration of these product lines.
-   - Seasonal patterns show clear revenue peaks around December, suggesting holiday demand plays a key role in driving sales.
+### 1. **Revenue Overview**
+   - **Total Revenue**: $35.6K, primarily driven by sales in the United States ($35,639).
+   - The **United States** dominates revenue generation, followed by **Ireland ($6,697)** and the **United Kingdom ($2,799)**, which present growth opportunities.
 
-### 2. **Market Performance**
-   - **The United States** leads with $6,667 in sales, far outpacing Ireland ($1,650) and the United Kingdom ($594).
-   - This concentration indicates opportunities for deeper penetration in Ireland and the UK, as well as exploring new geographic markets to diversify revenue streams.
+### 2. **Top Coffee Bean Types**
+   - **Arabica and Robusta** are the most frequently sold coffee types, showing strong sales trends with peaks during holiday seasons.
+   - **Liberica and Excelsa** contribute less to total sales, suggesting potential for strategic promotion or consideration of their product positioning.
 
 ### 3. **Customer Behavior**
-   - Top customers, including Don Flinifft ($141) and Marja Urion ($139), are critical contributors to revenue, highlighting the importance of retaining these high-value customers.
-   - Mid-tier customers present an untapped opportunity for growth through loyalty incentives or personalized marketing campaigns.
+   - **Top 5 Customers**: Allis Wilmore ($517) and Brenn Dundredge ($307) contribute significantly to revenue, highlighting the importance of retaining these high-value customers.
+   - Strengthening customer loyalty programs can further enhance retention and increase purchase frequency.
 
-### 4. **Product Preferences**
-   - **Medium Roast** coffee and larger sizes (1.0 kg and 2.5 kg) generate the most sales, reflecting customer preferences for these product variations.
-   - The effectiveness of loyalty programs is evident, with loyalty card holders consistently contributing to higher purchase frequencies.
+### 4. **Order Trends**
+   - Sales consistently **peak in December**, driven by holiday demand, while **early months** such as January and February show lower activity.
+   - Targeted promotions during off-peak months can help smooth revenue fluctuations and maximize sales year-round.
 
-### 5. **Geographic Sales Trends**
-   - Regional preferences and loyalty card penetration should be analyzed further to enhance product offerings tailored to specific regions.
-   - Despite low sales from smaller markets like the UK, potential exists to grow sales with targeted regional campaigns.
+### 5. **Product Preferences**
+   - The dashboard provides options to filter by **roast type** (Dark, Light, Medium) and **size** (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg). These filters can help uncover specific customer preferences when applied, but further exploration is required to determine the most popular roast and size combinations.
 
 ---
 
